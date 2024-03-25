@@ -1,5 +1,5 @@
 const projectID = "3b58db56-a531-4f13-bc9c-62ccd18c3f0a";
-const namingstandardID ="cbddd21a-1d5d-52d1-80a5-2d1c21ef0197"
+const namingstandardID ="f2f126e2-77f7-5ffe-ae90-375c73c1c4c9"
 const hubID= "b.24d2d632-e01b-4ca0-b988-385be827cb04"
 const bucketKey = "wip.dm.emea.2"
 const defaultFolder = "urn:adsk.wipemea:fs.folder:co.yuClwjdLTveQlqdhc1wEIA" // KELTBRAY - WIP Folder
