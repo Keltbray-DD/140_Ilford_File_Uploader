@@ -4,7 +4,7 @@ const hubID= "b.24d2d632-e01b-4ca0-b988-385be827cb04"
 const bucketKey = "wip.dm.emea.2"
 const defaultFolder = "urn:adsk.wipemea:fs.folder:co.yuClwjdLTveQlqdhc1wEIA" // KELTBRAY - WIP Folder
 const templateFolderID = "urn:adsk.wipemea:fs.folder:co.PF8z0fNYT9O6K8m7gvEgIg" // APPROVED_TEMPLATES Folder
-const toolURL ="https://keltbray-dd.github.io/Template_File_Uploader/"
+const toolURL ="https://keltbray-dd.github.io/140_Ilford_File_Uploader/"
 
 
 const uploadfolders = [
