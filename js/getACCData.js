@@ -67,7 +67,7 @@ function generateDocName(){
         const nextNumber = maxNumber + 1;
 
         // Pad the next number with zeros and set the fixed length to 6
-        const paddedNextNumber = String(nextNumber).padStart(6, '0');
+        const paddedNextNumber = String(nextNumber).padStart(4, '0');
 
         console.log('Next number with padded zeros and fixed length 6:', paddedNextNumber);
 
